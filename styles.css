@@ -1,0 +1,73 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-image: url(https://w3programmers.com/bangla/css-backgrounds/css-backgrounds-2/);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    font-size: 4.5rem;
+    text-align: center;
+    margin: 20px 0px;
+    padding: 15px 0px;
+    font-family: 'Bevan';
+    text-shadow: rgb(0, 15, 219) 0px 0px 3px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-decoration: none;
+}
+.item {
+    padding-right: 35px;
+    list-style-type: none;
+    font-size: 1.75rem;
+    font-family: 'Bevan';
+    color: white;
+    text-shadow: rgb(219, 106, 0) 0px 0px 3px;
+    letter-spacing: 3px;
+}
+
+.info {
+    width: 1000px;
+    padding: 15px 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 1.75rem;
+    color: white; }
+
+ h2 {   
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+    font-family: 'Fredericka the great';
+    text-shadow: rgb(0, 15, 219) 0px 0px 3px;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    margin-left: 350px;
+    justify-content: center;
+}
+.flex-pictures img {
+    max-width: 400px;
+    max-height: 300px;
+    margin: 20px 20px;
+    border: 2px solid rgb(255, 136, 0);
+}
+p {
+    color: white;
+    font-size: 1.75rem;
+    text-align: center;
+    font-family: 'Fredericka the great';
+    text-shadow: rgb(0, 15, 219) 0px 0px 3px;
+}
+address {
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Fredericka the great';
+}
